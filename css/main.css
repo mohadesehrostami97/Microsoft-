@@ -1,0 +1,128 @@
+.height{
+    height: 50px;
+}
+.text-chevron{
+    color: #0067b8;
+    
+}
+.w-card-button{
+    width: 116px;
+}
+.bottom-card{
+    bottom: 20px;
+}
+.w-card-button-second{
+    width: 40%;
+}
+.bg-span{
+    background-color: #ffb900;
+
+}
+.ms-cards{
+    margin-left: 110px;
+}
+.ms-cards-md{
+    margin-left: 50px;
+}
+
+.top-image{
+    top: 32%;
+    right: 7%;
+}
+.top-image2{
+    top: 90%;
+}
+.top-image2{
+    top: 100%;
+}
+.my-image{
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+.top-image-swiper{
+    top: 18%;
+    left: 7%;
+}
+.bg-footer{
+    background-color: #f2f2f2;
+}
+.text-footer{
+    color: #616161;
+}
+.font-footer{
+    font-size: 12px;
+}
+.directation{
+    direction: rtl;
+}
+.navbar-font{
+    font-size: 12px;
+}
+.top-navbar-span{
+    top: 7px;
+    right: -20%;
+}
+.w-brand{
+    width: 130px;
+}
+.top-dropdown{
+    top: 6px;
+}
+
+.margin-image-brand{
+    margin-left: 19%;
+}
+
+.menu-font{
+    font-size: 15px;
+}
+.w-microsoft{
+    width:600px;
+    height: 400px;
+}
+.all-microsoft-into{
+    width: 90%;
+    position: absolute;
+    background-color:#f2f2f2;
+    right: 20px;
+    top: 57px;
+    display: none;
+    z-index: 999;
+}
+.all-microsoft-into2{
+    width: 90%;
+    
+    position: absolute;
+    background-color: #f2f2f2;
+    right: 20px;
+    top: 57px;
+    display: none;
+    z-index: 999;
+}
+
+.active{
+    display: block;
+}
+.bg-footer-menu{
+    background-color: #E6E6E6;
+}
+.font-menu-footer{
+    font-size: 13px;
+}
+.custom-hover:hover{
+    border-bottom: 2px solid black;
+}
+.border-sitemap{
+    border-bottom:  1px solid black;
+}
+html,body{
+    scroll-behavior: smooth;
+}
+.direction-backtotop{
+    direction: rtl;
+    
+}
+
+
+
+
